@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cart"
+        android:title="@string/cart"
+        android:icon="@drawable/ic_shopping_cart_black_24px"/>
+
+    <item
+        android:id="@+id/media"
+        android:title="@string/media"
+        android:icon="@drawable/ic_face_black_24px"/>
+
+    <item
+        android:id="@+id/games"
+        android:title="@string/games"
+        android:icon="@drawable/ic_games_black_24px"/>
+
+    <item
+        android:id="@+id/us"
+        android:title="@string/us"
+        android:icon="@drawable/ic_android_black_24px"/>
+    <item
+        android:id="@+id/userprofile"
+        android:title="User Profile"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        />
+    <item
+        android:id="@+id/profile"
+        android:title="profile"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        />
+</menu>
